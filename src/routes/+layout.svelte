@@ -50,6 +50,7 @@
 
 <main class="h-screen bg-black">
 	<slot />
+	<slot /> 
 </main>
 
 <footer>
